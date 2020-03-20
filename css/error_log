@@ -1,0 +1,2 @@
+[26-Oct-2015 16:38:36 UTC] PHP Warning:  filter_input() expects parameter 1 to be long, string given in /home/a3smedia/public_html/rego-frontend/css/styles.css.php on line 3
+[26-Oct-2015 16:38:46 UTC] PHP Warning:  filter_input() expects parameter 1 to be long, string given in /home/a3smedia/public_html/rego-frontend/css/styles.css.php on line 3

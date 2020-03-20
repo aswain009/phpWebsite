@@ -1,0 +1,10 @@
+[01-Oct-2014 15:31:18 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '1'' at line 1' in /home/a3smedia/public_html/tick/includes/settings.php:42
+Stack trace:
+#0 /home/a3smedia/public_html/tick/includes/settings.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home/a3smedia/public_html/tick/includes/settings.php on line 42
+[01-Oct-2014 15:32:13 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '1'' at line 1' in /home/a3smedia/public_html/tick/includes/settings.php:42
+Stack trace:
+#0 /home/a3smedia/public_html/tick/includes/settings.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home/a3smedia/public_html/tick/includes/settings.php on line 42

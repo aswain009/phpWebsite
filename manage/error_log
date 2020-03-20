@@ -1,0 +1,669 @@
+[24-Mar-2015 19:59:37 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 19:59:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:01:06 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:01:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:01:56 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:01:56 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:02:17 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:02:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:03:04 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:03:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:04:38 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:04:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:05:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 81
+[24-Mar-2015 20:05:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 81
+[24-Mar-2015 20:18:07 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:18:07 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:22:13 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:22:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:24:34 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[24-Mar-2015 20:24:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[25-Mar-2015 16:42:20 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[25-Mar-2015 16:42:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[25-Mar-2015 16:42:59 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[25-Mar-2015 16:42:59 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[25-Mar-2015 16:43:04 UTC] PHP Fatal error:  Class 'Admins' not found in /home/a3smedia/public_html/thangarang/manage/viewCareers.php on line 41
+[25-Mar-2015 16:43:21 UTC] PHP Fatal error:  Call to undefined function getCareers() in /home/a3smedia/public_html/thangarang/manage/viewCareers.php on line 75
+[25-Mar-2015 16:43:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewCareers.php on line 265
+[25-Mar-2015 16:44:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewCareers.php on line 265
+[25-Mar-2015 16:45:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewCareers.php on line 265
+[25-Mar-2015 16:46:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewCareers.php on line 265
+[25-Mar-2015 16:48:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewCareers.php on line 265
+[25-Mar-2015 16:48:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewCareers.php on line 265
+[25-Mar-2015 16:48:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewCareers.php on line 265
+[25-Mar-2015 16:50:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewCareers.php on line 133
+[25-Mar-2015 16:51:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewCareers.php on line 131
+[25-Mar-2015 16:51:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewCareers.php on line 131
+[25-Mar-2015 16:52:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewCareers.php on line 131
+[25-Mar-2015 16:52:24 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[25-Mar-2015 16:52:24 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[25-Mar-2015 16:52:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewCareers.php on line 131
+[25-Mar-2015 17:21:52 UTC] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/addUsers.php on line 34
+[25-Mar-2015 17:21:52 UTC] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/addUsers.php on line 34
+[25-Mar-2015 17:21:52 UTC] PHP Warning:  include(): Failed opening 'includes/headLibraries.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/manage/addUsers.php on line 34
+[25-Mar-2015 17:24:11 UTC] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 40
+[25-Mar-2015 17:24:11 UTC] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 40
+[25-Mar-2015 17:24:11 UTC] PHP Warning:  include(): Failed opening 'includes/headLibraries.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 40
+[25-Mar-2015 17:24:11 UTC] PHP Fatal error:  Call to undefined function getCareer() in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 168
+[25-Mar-2015 17:24:29 UTC] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 40
+[25-Mar-2015 17:24:29 UTC] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 40
+[25-Mar-2015 17:24:29 UTC] PHP Warning:  include(): Failed opening 'includes/headLibraries.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 40
+[25-Mar-2015 17:24:29 UTC] PHP Fatal error:  Call to undefined function getCareer() in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 168
+[25-Mar-2015 17:24:32 UTC] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 40
+[25-Mar-2015 17:24:32 UTC] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 40
+[25-Mar-2015 17:24:32 UTC] PHP Warning:  include(): Failed opening 'includes/headLibraries.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 40
+[25-Mar-2015 17:24:32 UTC] PHP Fatal error:  Call to undefined function getCareer() in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 168
+[25-Mar-2015 17:24:36 UTC] PHP Fatal error:  Call to undefined function getCareer() in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 168
+[25-Mar-2015 17:33:55 UTC] PHP Fatal error:  Class 'Admins' not found in /home/a3smedia/public_html/thangarang/manage/addServices.php on line 23
+[25-Mar-2015 18:18:57 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/a3smedia/public_html/thangarang/manage/viewUsers.php on line 128
+[25-Mar-2015 18:18:57 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/a3smedia/public_html/thangarang/manage/viewUsers.php on line 129
+[25-Mar-2015 19:29:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 17
+[25-Mar-2015 19:29:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 17
+[25-Mar-2015 19:32:47 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 102
+[25-Mar-2015 19:32:56 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 102
+[25-Mar-2015 19:33:39 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 108
+[25-Mar-2015 19:35:12 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 108
+[25-Mar-2015 19:36:35 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 108
+[25-Mar-2015 19:36:49 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 108
+[25-Mar-2015 19:37:50 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 106
+[25-Mar-2015 19:38:41 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 106
+[25-Mar-2015 19:39:33 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 106
+[25-Mar-2015 19:46:14 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 107
+[25-Mar-2015 19:46:32 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 108
+[25-Mar-2015 19:47:05 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 106
+[25-Mar-2015 19:47:35 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 108
+[25-Mar-2015 19:48:35 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 108
+[25-Mar-2015 19:50:12 UTC] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 108
+[25-Mar-2015 20:06:37 UTC] PHP Fatal error:  Call to undefined method PDO::getConnection() in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 113
+[25-Mar-2015 20:07:05 UTC] PHP Fatal error:  Call to undefined method PDO::getConnection() in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 113
+[25-Mar-2015 20:07:55 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 122
+[25-Mar-2015 20:08:01 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 122
+[25-Mar-2015 20:08:50 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/a3smedia/public_html/thangarang/manage/editUsers.php on line 122
+[26-Mar-2015 13:22:31 UTC] PHP Fatal error:  Call to undefined function getServices() in /home/a3smedia/public_html/thangarang/manage/viewServices.php on line 36
+[26-Mar-2015 13:23:20 UTC] PHP Fatal error:  Call to undefined function getServices() in /home/a3smedia/public_html/thangarang/manage/viewServices.php on line 36
+[26-Mar-2015 13:23:23 UTC] PHP Fatal error:  Call to undefined function getServices() in /home/a3smedia/public_html/thangarang/manage/viewServices.php on line 36
+[26-Mar-2015 13:43:44 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/a3smedia/public_html/thangarang/manage/viewServices.php on line 135
+[26-Mar-2015 14:03:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed to delete service' in /home/a3smedia/public_html/thangarang/classes/information/Service.php:150
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(51): classes\information\Service->delete()
+#1 /home/a3smedia/public_html/thangarang/manage/viewServices.php(21): getServices('delete', '')
+#2 {main}
+  thrown in /home/a3smedia/public_html/thangarang/classes/information/Service.php on line 150
+[26-Mar-2015 14:08:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`a3smedia_thangarang`.`businessServices`, CONSTRAINT `businessServicesService` FOREIGN KEY (`service`) REFERENCES `services` (`id`))' in /home/a3smedia/public_html/thangarang/classes/information/Service.php:148
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/classes/information/Service.php(148): PDOStatement->execute()
+#1 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(51): classes\information\Service->delete()
+#2 /home/a3smedia/public_html/thangarang/manage/viewServices.php(21): getServices('delete', '48')
+#3 {main}
+  thrown in /home/a3smedia/public_html/thangarang/classes/information/Service.php on line 148
+[31-Mar-2015 20:59:02 UTC] PHP Fatal error:  Cannot use object of type classes\information\Item as array in /home/a3smedia/public_html/thangarang/manage/viewItems.php on line 149
+[31-Mar-2015 20:59:59 UTC] PHP Fatal error:  Cannot access private property classes\information\Item::$user in /home/a3smedia/public_html/thangarang/manage/viewItems.php on line 149
+[31-Mar-2015 21:00:32 UTC] PHP Fatal error:  Cannot use object of type classes\information\Item as array in /home/a3smedia/public_html/thangarang/manage/viewItems.php on line 156
+[31-Mar-2015 21:14:48 UTC] PHP Parse error:  syntax error, unexpected '$object' (T_VARIABLE) in /home/a3smedia/public_html/thangarang/manage/includes/functions.php on line 167
+[31-Mar-2015 21:15:18 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/a3smedia/public_html/thangarang/manage/includes/functions.php on line 160
+[31-Mar-2015 21:15:51 UTC] PHP Fatal error:  Call to undefined function fetch() in /home/a3smedia/public_html/thangarang/manage/includes/functions.php on line 165
+[31-Mar-2015 21:16:05 UTC] PHP Catchable fatal error:  Argument 1 passed to classes\access\User::setSubscription() must be an instance of classes\access\Subscription, integer given, called in /home/a3smedia/public_html/thangarang/manage/includes/functions.php on line 168 and defined in /home/a3smedia/public_html/thangarang/classes/access/User.php on line 60
+[31-Mar-2015 21:17:12 UTC] PHP Catchable fatal error:  Argument 1 passed to classes\access\User::setUserType() must be an instance of classes\access\UserType, integer given, called in /home/a3smedia/public_html/thangarang/manage/includes/functions.php on line 169 and defined in /home/a3smedia/public_html/thangarang/classes/access/User.php on line 80
+[01-Apr-2015 13:24:31 UTC] PHP Fatal error:  Call to undefined function getUsers() in /home/a3smedia/public_html/thangarang/manage/addItems.php on line 77
+[01-Apr-2015 13:25:30 UTC] PHP Warning:  include(inclues/functions.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/addItems.php on line 3
+[01-Apr-2015 13:25:30 UTC] PHP Warning:  include(inclues/functions.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/addItems.php on line 3
+[01-Apr-2015 13:25:30 UTC] PHP Warning:  include(): Failed opening 'inclues/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/manage/addItems.php on line 3
+[01-Apr-2015 13:25:30 UTC] PHP Fatal error:  Call to undefined function getUsers() in /home/a3smedia/public_html/thangarang/manage/addItems.php on line 78
+[01-Apr-2015 14:01:57 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/a3smedia/public_html/thangarang/manage/viewItems.php on line 163
+[01-Apr-2015 14:03:54 UTC] PHP Fatal error:  Can't use method return value in write context in /home/a3smedia/public_html/thangarang/manage/viewItems.php on line 150
+[01-Apr-2015 14:04:45 UTC] PHP Fatal error:  Can't use method return value in write context in /home/a3smedia/public_html/thangarang/manage/viewItems.php on line 150
+[01-Apr-2015 14:05:15 UTC] PHP Fatal error:  Can't use method return value in write context in /home/a3smedia/public_html/thangarang/manage/viewItems.php on line 150
+[01-Apr-2015 14:06:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/a3smedia/public_html/thangarang/manage/viewItems.php on line 155
+[01-Apr-2015 14:15:30 UTC] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/a3smedia/public_html/thangarang/manage/editItems.php on line 92
+[01-Apr-2015 14:17:26 UTC] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/a3smedia/public_html/thangarang/manage/editItems.php on line 92
+[01-Apr-2015 14:17:47 UTC] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/a3smedia/public_html/thangarang/manage/editItems.php on line 94
+[01-Apr-2015 14:21:07 UTC] PHP Fatal error:  Call to a member function getName() on a non-object in /home/a3smedia/public_html/thangarang/manage/editItems.php on line 111
+[01-Apr-2015 14:24:59 UTC] PHP Fatal error:  Cannot use object of type classes\information\Item as array in /home/a3smedia/public_html/thangarang/manage/editItems.php on line 94
+[01-Apr-2015 14:50:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number' in /home/a3smedia/public_html/thangarang/classes/information/Item.php:260
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/classes/information/Item.php(260): PDOStatement->execute()
+#1 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(84): classes\information\Item->purchasedItem()
+#2 /home/a3smedia/public_html/thangarang/manage/viewItems.php(26): getItems('purchased', '15')
+#3 {main}
+  thrown in /home/a3smedia/public_html/thangarang/classes/information/Item.php on line 260
+[02-Apr-2015 15:39:49 America/New_York] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Logs.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[02-Apr-2015 15:39:49 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Logs.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 45
+[02-Apr-2015 15:40:57 America/New_York] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Logs.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 20
+[02-Apr-2015 15:40:57 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Logs.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 20
+[02-Apr-2015 15:41:54 America/New_York] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 28
+[02-Apr-2015 15:41:54 America/New_York] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 28
+[02-Apr-2015 15:41:54 America/New_York] PHP Warning:  include(): Failed opening 'includes/headLibraries.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 28
+[02-Apr-2015 15:41:54 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 101
+[02-Apr-2015 15:43:05 America/New_York] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 28
+[02-Apr-2015 15:43:05 America/New_York] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 28
+[02-Apr-2015 15:43:05 America/New_York] PHP Warning:  include(): Failed opening 'includes/headLibraries.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 28
+[02-Apr-2015 15:43:05 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 101
+[02-Apr-2015 15:43:06 America/New_York] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 28
+[02-Apr-2015 15:43:06 America/New_York] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 28
+[02-Apr-2015 15:43:06 America/New_York] PHP Warning:  include(): Failed opening 'includes/headLibraries.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 28
+[02-Apr-2015 15:43:06 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 101
+[02-Apr-2015 15:43:58 America/New_York] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 28
+[02-Apr-2015 15:43:58 America/New_York] PHP Warning:  include(includes/headLibraries.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 28
+[02-Apr-2015 15:43:58 America/New_York] PHP Warning:  include(): Failed opening 'includes/headLibraries.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 28
+[02-Apr-2015 15:43:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 101
+[02-Apr-2015 15:44:13 America/New_York] PHP Warning:  require_once(/home/a3smedia/public_html/thangarang/Classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/autoload.php on line 20
+[02-Apr-2015 15:44:13 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/thangarang/Classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/autoload.php on line 20
+[02-Apr-2015 15:47:08 America/New_York] PHP Fatal error:  Class 'Admins' not found in /home/a3smedia/public_html/thangarang/manage/dashboard.php on line 14
+[02-Apr-2015 19:53:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/a3smedia/public_html/thangarang/manage/index.php:2) in /home/a3smedia/public_html/thangarang/manage/index.php on line 2
+[02-Apr-2015 19:53:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/a3smedia/public_html/thangarang/manage/index.php:2) in /home/a3smedia/public_html/thangarang/manage/index.php on line 2
+[02-Apr-2015 19:53:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/a3smedia/public_html/thangarang/manage/index.php:2) in /home/a3smedia/public_html/thangarang/manage/index.php on line 2
+[02-Apr-2015 20:01:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/a3smedia/public_html/thangarang/manage/index.php on line 18
+[02-Apr-2015 16:19:16 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2031 ' in /home/a3smedia/public_html/thangarang/manage/index.php:25
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/manage/index.php(25): PDOStatement->execute()
+#1 {main}
+  thrown in /home/a3smedia/public_html/thangarang/manage/index.php on line 25
+[03-Apr-2015 12:59:45 America/New_York] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/a3smedia/public_html/thangarang/manage/editItems.php on line 102
+[03-Apr-2015 13:00:33 America/New_York] PHP Fatal error:  Call to a member function getName() on a non-object in /home/a3smedia/public_html/thangarang/manage/editSubscriptions.php on line 100
+[03-Apr-2015 13:02:10 America/New_York] PHP Fatal error:  Call to a member function getName() on a non-object in /home/a3smedia/public_html/thangarang/manage/editSubscriptions.php on line 100
+[03-Apr-2015 13:02:53 America/New_York] PHP Fatal error:  Call to a member function getName() on a non-object in /home/a3smedia/public_html/thangarang/manage/editSubscriptions.php on line 101
+[06-May-2015 15:31:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.fancy' in 'field list'' in /home/a3smedia/public_html/thangarang/manage/viewUsers.php:140
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/manage/viewUsers.php(140): PDO->prepare('\r\n\t\t\t\t\t\t\t\t\t\tSEL...')
+#1 {main}
+  thrown in /home/a3smedia/public_html/thangarang/manage/viewUsers.php on line 140
+[06-May-2015 15:32:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.fancy' in 'field list'' in /home/a3smedia/public_html/thangarang/manage/viewUsers.php:140
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/manage/viewUsers.php(140): PDO->prepare('\r\n\t\t\t\t\t\t\t\t\t\tSEL...')
+#1 {main}
+  thrown in /home/a3smedia/public_html/thangarang/manage/viewUsers.php on line 140
+[06-May-2015 15:32:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.fancy' in 'field list'' in /home/a3smedia/public_html/thangarang/manage/viewUsers.php:140
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/manage/viewUsers.php(140): PDO->prepare('\r\n\t\t\t\t\t\t\t\t\t\tSEL...')
+#1 {main}
+  thrown in /home/a3smedia/public_html/thangarang/manage/viewUsers.php on line 140
+[06-May-2015 11:33:00 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewSubscriptions.php on line 144
+[06-May-2015 11:51:27 America/New_York] PHP Fatal error:  Call to undefined method classes\access\Subscription::getSubscriptions() in /home/a3smedia/public_html/thangarang/manage/includes/functions.php on line 192
+[06-May-2015 11:51:59 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewSubscriptions.php on line 144
+[06-May-2015 11:52:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewSubscriptions.php on line 144
+[06-May-2015 11:54:23 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewSubscriptions.php on line 144
+[06-May-2015 11:55:05 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/thangarang/manage/viewSubscriptions.php on line 144
+[06-May-2015 12:03:50 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/a3smedia/public_html/thangarang/classes/access/Subscription.php:98
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/classes/access/Subscription.php(98): PDOStatement->bindParam(':id', 0, 1)
+#1 /home/a3smedia/public_html/thangarang/classes/access/User.php(69): classes\access\Subscription::getSubscriptionByID(0)
+#2 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(245): classes\access\User->setSubscriptionByID(0)
+#3 /home/a3smedia/public_html/thangarang/manage/addItems.php(87): getUsers('readAll')
+#4 {main}
+  thrown in /home/a3smedia/public_html/thangarang/classes/access/Subscription.php on line 98
+[06-May-2015 12:04:06 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/a3smedia/public_html/thangarang/classes/access/Subscription.php:98
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/classes/access/Subscription.php(98): PDOStatement->bindParam(':id', 0, 1)
+#1 /home/a3smedia/public_html/thangarang/classes/access/User.php(69): classes\access\Subscription::getSubscriptionByID(0)
+#2 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(245): classes\access\User->setSubscriptionByID(0)
+#3 /home/a3smedia/public_html/thangarang/manage/addItems.php(87): getUsers('readAll')
+#4 {main}
+  thrown in /home/a3smedia/public_html/thangarang/classes/access/Subscription.php on line 98
+[06-May-2015 17:07:02 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/a3smedia/public_html/thangarang/manage/includes/settings.php on line 20
+[06-May-2015 17:07:20 UTC] PHP Warning:  include(/home/a3smedia/public_html/thangarang//stripe/init.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/viewSubscriptions.php on line 2
+[06-May-2015 17:07:20 UTC] PHP Warning:  include(): Failed opening '/home/a3smedia/public_html/thangarang//stripe/init.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/manage/viewSubscriptions.php on line 2
+[06-May-2015 17:07:51 UTC] PHP Warning:  include(/home/a3smedia/public_html/thangarang/stripe/init.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/thangarang/manage/viewSubscriptions.php on line 2
+[06-May-2015 17:07:51 UTC] PHP Warning:  include(): Failed opening '/home/a3smedia/public_html/thangarang/stripe/init.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/thangarang/manage/viewSubscriptions.php on line 2
+[06-May-2015 13:40:55 America/New_York] PHP Fatal error:  Call to undefined method classes\access\Subscription::getFancy() in /home/a3smedia/public_html/thangarang/manage/viewSubscriptions.php on line 150
+[06-May-2015 17:48:18 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/a3smedia/public_html/thangarang/manage/includes/functions.php on line 213
+[06-May-2015 14:18:36 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'subscriptionName' cannot be null' in /home/a3smedia/public_html/thangarang/classes/access/Subscription.php:163
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/classes/access/Subscription.php(163): PDOStatement->execute()
+#1 /home/a3smedia/public_html/thangarang/classes/access/Subscription.php(147): classes\access\Subscription->create()
+#2 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(254): classes\access\Subscription->save()
+#3 /home/a3smedia/public_html/thangarang/manage/viewSubscriptions.php(35): getSubscriptions('update', '3', Array)
+#4 {main}
+  thrown in /home/a3smedia/public_html/thangarang/classes/access/Subscription.php on line 163
+[06-May-2015 14:20:08 America/New_York] PHP Fatal error:  Uncaught exception 'Stripe\Error\InvalidRequest' with message 'You passed an empty string for 'name'. We assume empty values are an attempt to unset a parameter; however 'name' cannot be unset. You should remove 'name' from your request or supply a non-empty value.' in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php:144
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(256): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array)
+#1 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(107): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400)
+#2 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/plans/3', Array, Array)
+#3 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(98): Stripe\ApiResource::_staticRequest('post', '/v1/plans/3', Array, Object(Stripe\Util\RequestOptions))
+#4 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.ph in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php on line 144
+[06-May-2015 18:38:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.fancy' in 'field list'' in /home/a3smedia/public_html/thangarang/manage/viewUsers.php:140
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/manage/viewUsers.php(140): PDO->prepare('\r\n\t\t\t\t\t\t\t\t\t\tSEL...')
+#1 {main}
+  thrown in /home/a3smedia/public_html/thangarang/manage/viewUsers.php on line 140
+[07-May-2015 12:25:51 UTC] PHP Fatal error:  Can't use method return value in write context in /home/a3smedia/public_html/thangarang/manage/includes/functions.php on line 90
+[07-May-2015 12:26:29 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/a3smedia/public_html/thangarang/manage/includes/functions.php on line 104
+[07-May-2015 08:26:52 America/New_York] PHP Fatal error:  Call to a member function getName() on a non-object in /home/a3smedia/public_html/thangarang/manage/includes/functions.php on line 99
+[07-May-2015 08:27:20 America/New_York] PHP Fatal error:  Uncaught exception 'Stripe\Error\InvalidRequest' with message 'There is no token with ID cus_6BzAM2T5Dl2qfg.' in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php:144
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(256): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array)
+#1 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(107): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400)
+#2 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/a3smedia/public_html/thangarang/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(107): Stripe\Charge::create(Array)
+#6 /home/a3smedia/public_html/thangar in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php on line 144
+[07-May-2015 08:29:16 America/New_York] PHP Fatal error:  Uncaught exception 'Stripe\Error\InvalidRequest' with message 'There is no token with ID cus_6BzAM2T5Dl2qfg.' in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php:144
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(256): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array)
+#1 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(107): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400)
+#2 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/a3smedia/public_html/thangarang/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(107): Stripe\Charge::create(Array)
+#6 /home/a3smedia/public_html/thangar in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php on line 144
+[07-May-2015 08:30:21 America/New_York] PHP Fatal error:  Uncaught exception 'Stripe\Error\InvalidRequest' with message 'There is no token with ID cus_6BzAM2T5Dl2qfg.' in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php:144
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(256): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array)
+#1 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(107): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400)
+#2 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/a3smedia/public_html/thangarang/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(107): Stripe\Charge::create(Array)
+#6 /home/a3smedia/public_html/thangar in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php on line 144
+[07-May-2015 08:40:44 America/New_York] PHP Fatal error:  Uncaught exception 'Stripe\Error\InvalidRequest' with message 'There is no token with ID cus_6BzAM2T5Dl2qfg.' in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php:144
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(256): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array)
+#1 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(107): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400)
+#2 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/a3smedia/public_html/thangarang/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(108): Stripe\Charge::create(Array)
+#6 /home/a3smedia/public_html/thangar in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php on line 144
+[07-May-2015 08:49:01 America/New_York] PHP Fatal error:  Uncaught exception 'Stripe\Error\InvalidRequest' with message 'There is no token with ID cus_6BzAM2T5Dl2qfg.' in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php:144
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(256): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array)
+#1 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(107): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400)
+#2 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/a3smedia/public_html/thangarang/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(108): Stripe\Charge::create(Array)
+#6 /home/a3smedia/public_html/thangar in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php on line 144
+[07-May-2015 08:55:06 America/New_York] PHP Fatal error:  Uncaught exception 'Stripe\Error\InvalidRequest' with message 'There is no token with ID card_15zbCRENbk5pR2hcWUVVpEUD.' in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php:144
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(256): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array)
+#1 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(107): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400)
+#2 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/a3smedia/public_html/thangarang/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(107): Stripe\Charge::create(Array)
+#6 /home/a3smedia/public_h in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php on line 144
+[07-May-2015 09:00:29 America/New_York] PHP Fatal error:  Uncaught exception 'Stripe\Error\InvalidRequest' with message 'There is no token with ID cus_6BzAM2T5Dl2qfg.' in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php:144
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(256): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array)
+#1 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(107): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400)
+#2 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/a3smedia/public_html/thangarang/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(107): Stripe\Charge::create(Array)
+#6 /home/a3smedia/public_html/thangar in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php on line 144
+[07-May-2015 09:02:17 America/New_York] PHP Fatal error:  Uncaught exception 'Stripe\Error\InvalidRequest' with message 'There is no token with ID card_15zbCRENbk5pR2hcWUVVpEUD.' in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php:144
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(256): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array)
+#1 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(107): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400)
+#2 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/a3smedia/public_html/thangarang/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(108): Stripe\Charge::create(Array)
+#6 /home/a3smedia/public_h in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php on line 144
+[07-May-2015 09:03:56 America/New_York] PHP Fatal error:  Uncaught exception 'Stripe\Error\InvalidRequest' with message 'There is no token with ID cus_6BzAM2T5Dl2qfg.' in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php:144
+Stack trace:
+#0 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(256): Stripe\ApiRequestor->handleApiError('{\n  "error": {\n...', 400, Array)
+#1 /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php(107): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400)
+#2 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(105): Stripe\ApiRequestor->request('post', '/v1/charges', Array, Array)
+#3 /home/a3smedia/public_html/thangarang/stripe/lib/ApiResource.php(137): Stripe\ApiResource::_staticRequest('post', '/v1/charges', Array, NULL)
+#4 /home/a3smedia/public_html/thangarang/stripe/lib/Charge.php(37): Stripe\ApiResource::_create(Array, NULL)
+#5 /home/a3smedia/public_html/thangarang/manage/includes/functions.php(107): Stripe\Charge::create(Array)
+#6 /home/a3smedia/public_html/thangar in /home/a3smedia/public_html/thangarang/stripe/lib/ApiRequestor.php on line 144
+[27-Jul-2015 15:52:36 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/regodesigns/autoload.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/manage/includes/settings.php on line 24
+[27-Jul-2015 15:52:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/regodesigns/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/manage/includes/settings.php on line 24
+[27-Jul-2015 15:53:09 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/regodesigns/autoload.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/manage/includes/settings.php on line 24
+[27-Jul-2015 15:53:09 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/regodesigns/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/manage/includes/settings.php on line 24
+[27-Jul-2015 15:53:15 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/rego-frontend/autoload.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/manage/includes/settings.php on line 24
+[27-Jul-2015 15:53:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/rego-frontend/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/manage/includes/settings.php on line 24
+[27-Jul-2015 15:55:29 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/rego-frontend/autoload.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/manage/includes/settings.php on line 24
+[27-Jul-2015 15:55:29 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/rego-frontend/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/manage/includes/settings.php on line 24
+[27-Jul-2015 15:55:43 UTC] PHP Warning:  require_once(/home/a3smedia/public_html/rego-frontend/autoloader.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/manage/includes/settings.php on line 24
+[27-Jul-2015 15:55:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/a3smedia/public_html/rego-frontend/autoloader.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/manage/includes/settings.php on line 24
+[27-Jul-2015 12:10:17 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 3
+[27-Jul-2015 12:10:17 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 3
+[27-Jul-2015 12:10:17 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 3
+[27-Jul-2015 12:10:17 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:10:41 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:10:41 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:10:41 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:10:41 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:11:05 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:11:05 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:11:05 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:11:05 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:11:41 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:11:41 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:11:41 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:11:41 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:12:05 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:12:05 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:12:05 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:12:05 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:13:10 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:13:10 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:13:10 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:13:10 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:14:20 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:14:20 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:14:20 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:14:20 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:15:43 America/New_York] PHP Warning:  include(../classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:15:43 America/New_York] PHP Warning:  include(../classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:15:43 America/New_York] PHP Warning:  include(): Failed opening '../classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:15:43 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:16:04 America/New_York] PHP Warning:  include(/classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:16:04 America/New_York] PHP Warning:  include(): Failed opening '/classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:16:04 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:16:31 America/New_York] PHP Warning:  include(/classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:16:31 America/New_York] PHP Warning:  include(): Failed opening '/classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:16:31 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:17:36 America/New_York] PHP Warning:  include(/home/a3smedia/public_html/rego-frontend/classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:17:36 America/New_York] PHP Warning:  include(): Failed opening '/home/a3smedia/public_html/rego-frontend/classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:17:36 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:18:28 America/New_York] PHP Warning:  include(/home/a3smedia/public_html/rego-frontend/classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:18:28 America/New_York] PHP Warning:  include(): Failed opening '/home/a3smedia/public_html/rego-frontend/classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:18:28 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:18:55 America/New_York] PHP Warning:  include(/home/a3smedia/public_html/rego-frontend/classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:18:55 America/New_York] PHP Warning:  include(): Failed opening '/home/a3smedia/public_html/rego-frontend/classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:18:55 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:19:35 America/New_York] PHP Warning:  include(/home/a3smedia/public_html/rego-frontend/classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:19:35 America/New_York] PHP Warning:  include(): Failed opening '/home/a3smedia/public_html/rego-frontend/classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:19:35 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:20:10 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:20:10 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:20:10 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:20:10 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:20:41 America/New_York] PHP Fatal error:  Cannot redeclare class utilities\Database\Database in /home/a3smedia/public_html/rego-frontend/classes/utilities/Database.php on line 5
+[27-Jul-2015 12:21:06 America/New_York] PHP Fatal error:  Cannot redeclare class utilities\Database\Database in /home/a3smedia/public_html/rego-frontend/classes/utilities/Database.php on line 5
+[27-Jul-2015 12:21:46 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:21:46 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:21:46 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:21:46 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:25:02 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:25:02 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:25:02 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:25:02 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:25:03 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:25:03 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:25:03 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:25:03 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:25:09 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:25:09 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:25:09 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:25:09 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:25:34 America/New_York] PHP Warning:  include(/home/a3smedia/public_htmlclasses/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:25:34 America/New_York] PHP Warning:  include(): Failed opening '/home/a3smedia/public_htmlclasses/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:25:34 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:25:52 America/New_York] PHP Warning:  include(/home/a3smedia/public_html/classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:25:52 America/New_York] PHP Warning:  include(): Failed opening '/home/a3smedia/public_html/classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:25:52 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:26:02 America/New_York] PHP Warning:  include(/home/a3smedia/public_html/classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:26:02 America/New_York] PHP Warning:  include(): Failed opening '/home/a3smedia/public_html/classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:26:02 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:26:41 America/New_York] PHP Warning:  include(/home/a3smedia/public_html/classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:26:41 America/New_York] PHP Warning:  include(): Failed opening '/home/a3smedia/public_html/classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 4
+[27-Jul-2015 12:26:41 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:27:14 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:27:58 America/New_York] PHP Warning:  include(classes/utilities\Database): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:27:58 America/New_York] PHP Warning:  include(classes/utilities\Database): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:27:58 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:27:58 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:29:26 America/New_York] PHP Fatal error:  Cannot redeclare class utilities\Database in /home/a3smedia/public_html/rego-frontend/classes/utilities/Database.php on line 5
+[27-Jul-2015 12:29:46 America/New_York] PHP Fatal error:  Cannot redeclare class utilities\Database in /home/a3smedia/public_html/rego-frontend/classes/utilities/Database.php on line 5
+[27-Jul-2015 12:29:50 America/New_York] PHP Fatal error:  Cannot redeclare class utilities\Database in /home/a3smedia/public_html/rego-frontend/classes/utilities/Database.php on line 5
+[27-Jul-2015 12:31:52 America/New_York] PHP Fatal error:  Cannot redeclare class utilities\Database in /home/a3smedia/public_html/rego-frontend/classes/utilities/Database.php on line 5
+[27-Jul-2015 12:32:25 America/New_York] PHP Warning:  include(classes/Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:32:25 America/New_York] PHP Warning:  include(classes/Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:32:25 America/New_York] PHP Warning:  include(): Failed opening 'classes/Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:32:25 America/New_York] PHP Fatal error:  Class 'Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:33:21 America/New_York] PHP Warning:  include(classes/Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:33:21 America/New_York] PHP Warning:  include(classes/Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:33:21 America/New_York] PHP Warning:  include(): Failed opening 'classes/Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:33:21 America/New_York] PHP Fatal error:  Class 'Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:34:42 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:34:42 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:34:42 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:34:42 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:35:44 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:35:44 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:35:44 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:35:44 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:35:45 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:35:45 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:35:45 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 5
+[27-Jul-2015 12:35:45 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:36:28 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:36:28 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:36:28 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:36:28 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:36:29 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:36:29 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:36:29 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:36:29 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:37:05 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:37:05 America/New_York] PHP Warning:  include(classes/utilities\Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:37:05 America/New_York] PHP Warning:  include(): Failed opening 'classes/utilities\Database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:37:05 America/New_York] PHP Fatal error:  Class 'utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 6
+[27-Jul-2015 12:38:15 America/New_York] PHP Warning:  include(classes/users\Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:38:15 America/New_York] PHP Warning:  include(classes/users\Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:38:15 America/New_York] PHP Warning:  include(): Failed opening 'classes/users\Admins.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:38:15 America/New_York] PHP Fatal error:  Class 'users\Admins' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 5
+[27-Jul-2015 12:39:50 America/New_York] PHP Warning:  include(classes/users\Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:39:50 America/New_York] PHP Warning:  include(classes/users\Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:39:50 America/New_York] PHP Warning:  include(): Failed opening 'classes/users\Admins.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:39:50 America/New_York] PHP Fatal error:  Class 'users\Admins' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 5
+[27-Jul-2015 12:40:26 America/New_York] PHP Warning:  include(/home/a3smedia/public_html/classes/users\Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:40:26 America/New_York] PHP Warning:  include(): Failed opening '/home/a3smedia/public_html/classes/users\Admins.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 6
+[27-Jul-2015 12:40:26 America/New_York] PHP Fatal error:  Class 'users\Admins' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 5
+[27-Jul-2015 12:43:46 America/New_York] PHP Warning:  require(users/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:43:46 America/New_York] PHP Warning:  require(users/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:43:46 America/New_York] PHP Fatal error:  require(): Failed opening required 'users/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:44:10 America/New_York] PHP Warning:  require(users/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:44:10 America/New_York] PHP Warning:  require(users/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:44:10 America/New_York] PHP Fatal error:  require(): Failed opening required 'users/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:44:13 America/New_York] PHP Warning:  require(users/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:44:13 America/New_York] PHP Warning:  require(users/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:44:13 America/New_York] PHP Fatal error:  require(): Failed opening required 'users/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:44:17 America/New_York] PHP Warning:  require(users/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:44:17 America/New_York] PHP Warning:  require(users/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:44:17 America/New_York] PHP Fatal error:  require(): Failed opening required 'users/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:44:19 America/New_York] PHP Warning:  require(users/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:44:19 America/New_York] PHP Warning:  require(users/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:44:19 America/New_York] PHP Fatal error:  require(): Failed opening required 'users/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 16
+[27-Jul-2015 12:45:55 America/New_York] PHP Warning:  require(users/classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 17
+[27-Jul-2015 12:45:55 America/New_York] PHP Warning:  require(users/classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 17
+[27-Jul-2015 12:45:55 America/New_York] PHP Fatal error:  require(): Failed opening required 'users/classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 17
+[27-Jul-2015 12:46:24 America/New_York] PHP Warning:  require(classesusers//Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 17
+[27-Jul-2015 12:46:24 America/New_York] PHP Warning:  require(classesusers//Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 17
+[27-Jul-2015 12:46:24 America/New_York] PHP Fatal error:  require(): Failed opening required 'classesusers//Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 17
+[27-Jul-2015 12:46:43 America/New_York] PHP Fatal error:  Class 'users\Admins' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 5
+[27-Jul-2015 12:47:09 America/New_York] PHP Fatal error:  Class 'users\Admins' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 5
+[27-Jul-2015 12:55:53 America/New_York] PHP Fatal error:  Class 'a3smedia\utilities\Database' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 7
+[27-Jul-2015 12:56:04 America/New_York] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 19
+[27-Jul-2015 12:56:04 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known' in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php:19
+Stack trace:
+#0 /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php(19): PDO->__construct('mysql:host=DB_H...', 'DB_USER', 'DB_PASS')
+#1 /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php(34): a3smedia\utilities\Database->__construct()
+#2 /home/a3smedia/public_html/rego-frontend/manage/index.php(7): a3smedia\utilities\Database::PDO()
+#3 {main}
+  thrown in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 19
+[27-Jul-2015 13:01:29 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'a3smedia_nick'@'localhost' to database 'a3smedia_regofront'' in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php:19
+Stack trace:
+#0 /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php(19): PDO->__construct('mysql:host=loca...', 'a3smedia_nick', 'Electr0n21#!')
+#1 /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php(34): a3smedia\utilities\Database->__construct()
+#2 /home/a3smedia/public_html/rego-frontend/manage/index.php(7): a3smedia\utilities\Database::PDO()
+#3 {main}
+  thrown in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 19
+[27-Jul-2015 13:03:05 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'a3smedia_nick'@'localhost' to database 'a3smedia_regofront'' in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php:20
+Stack trace:
+#0 /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php(20): PDO->__construct('mysql:host=loca...', 'a3smedia_nick', 'Electr0n21#!')
+#1 /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php(43): a3smedia\utilities\Database->__construct()
+#2 /home/a3smedia/public_html/rego-frontend/manage/index.php(7): a3smedia\utilities\Database::PDO()
+#3 {main}
+  thrown in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 20
+[27-Jul-2015 13:24:09 America/New_York] PHP Warning:  require(classes/regogems/users/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:24:09 America/New_York] PHP Warning:  require(classes/regogems/users/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:24:09 America/New_York] PHP Fatal error:  require(): Failed opening required 'classes/regogems/users/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:24:28 America/New_York] PHP Fatal error:  Class 'regodesign\users\Admins' not found in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 14
+[27-Jul-2015 13:24:56 America/New_York] PHP Warning:  PDOStatement::fetch() expects parameter 2 to be long, string given in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 74
+[27-Jul-2015 13:27:10 America/New_York] PHP Fatal error:  Call to undefined method PDO::setFetchMode() in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 74
+[27-Jul-2015 13:30:02 America/New_York] PHP Warning:  require(classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:30:02 America/New_York] PHP Warning:  require(classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:30:02 America/New_York] PHP Fatal error:  require(): Failed opening required 'classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:30:28 America/New_York] PHP Warning:  require(classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:30:28 America/New_York] PHP Warning:  require(classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:30:28 America/New_York] PHP Fatal error:  require(): Failed opening required 'classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:31:37 America/New_York] PHP Fatal error:  Call to a member function beginTransaction() on a non-object in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 59
+[27-Jul-2015 13:32:03 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 60
+[27-Jul-2015 13:32:35 America/New_York] PHP Warning:  require(classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:32:35 America/New_York] PHP Warning:  require(classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:32:35 America/New_York] PHP Fatal error:  require(): Failed opening required 'classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:33:08 America/New_York] PHP Fatal error:  Undefined class constant 'PDO' in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 59
+[27-Jul-2015 13:33:33 America/New_York] PHP Fatal error:  Call to a member function beginTransaction() on a non-object in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 60
+[27-Jul-2015 13:33:46 America/New_York] PHP Fatal error:  Call to a member function beginTransaction() on a non-object in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 61
+[27-Jul-2015 13:34:01 America/New_York] PHP Fatal error:  Call to a member function beginTransaction() on a non-object in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 61
+[27-Jul-2015 13:34:30 America/New_York] PHP Warning:  require(classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:34:30 America/New_York] PHP Warning:  require(classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:34:30 America/New_York] PHP Fatal error:  require(): Failed opening required 'classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:34:48 America/New_York] PHP Warning:  require(classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:34:48 America/New_York] PHP Warning:  require(classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:34:48 America/New_York] PHP Fatal error:  require(): Failed opening required 'classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:35:06 America/New_York] PHP Fatal error:  Call to a member function beginTransaction() on a non-object in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 60
+[27-Jul-2015 13:36:06 America/New_York] PHP Fatal error:  Call to undefined method regodesign\users\Admins::PDO() in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 59
+[27-Jul-2015 13:36:42 America/New_York] PHP Fatal error:  Call to undefined method a3smedia\utilities\Database::readOne() in /home/a3smedia/public_html/rego-frontend/classes/regodesign/users/Admins.php on line 44
+[27-Jul-2015 13:37:41 America/New_York] PHP Fatal error:  Call to undefined method a3smedia\utilities\Database::beginTransaction() in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 60
+[27-Jul-2015 13:37:57 America/New_York] PHP Fatal error:  Call to undefined method a3smedia\utilities\Database::beginTransaction() in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 61
+[27-Jul-2015 13:38:43 America/New_York] PHP Warning:  require(classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:38:43 America/New_York] PHP Warning:  require(classes/Admins.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:38:43 America/New_York] PHP Fatal error:  require(): Failed opening required 'classes/Admins.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 13:48:40 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a3smedia/public_html/rego-frontend/manage/index.php:5) in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 22
+[27-Jul-2015 13:48:58 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a3smedia/public_html/rego-frontend/manage/index.php:5) in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 20
+[27-Jul-2015 13:49:13 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a3smedia/public_html/rego-frontend/manage/index.php:5) in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 20
+[27-Jul-2015 15:27:09 America/New_York] PHP Fatal error:  Call to undefined function getSubscriptions() in /home/a3smedia/public_html/rego-frontend/manage/viewAdmins.php on line 41
+[27-Jul-2015 15:27:29 America/New_York] PHP Fatal error:  Call to undefined function getAdmins() in /home/a3smedia/public_html/rego-frontend/manage/viewAdmins.php on line 41
+[27-Jul-2015 15:27:48 America/New_York] PHP Fatal error:  Call to undefined function get() in /home/a3smedia/public_html/rego-frontend/manage/viewAdmins.php on line 41
+[27-Jul-2015 15:27:59 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/rego-frontend/manage/viewAdmins.php on line 144
+[27-Jul-2015 15:28:48 America/New_York] PHP Fatal error:  Call to undefined method regodesign\users\Admins::getName() in /home/a3smedia/public_html/rego-frontend/manage/viewAdmins.php on line 147
+[27-Jul-2015 15:29:09 America/New_York] PHP Fatal error:  Call to undefined method regodesign\users\Admins::getName() in /home/a3smedia/public_html/rego-frontend/manage/viewAdmins.php on line 145
+[27-Jul-2015 16:05:27 America/New_York] PHP Fatal error:  Call to undefined method regodesign\users\Admins::readAllProducts() in /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php on line 83
+[27-Jul-2015 16:07:46 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/a3smedia/public_html/rego-frontend/classes/regodesign/store/Products.php on line 30
+[27-Jul-2015 16:08:36 America/New_York] PHP Warning:  require(classes/regodesign/store/Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 16:08:36 America/New_York] PHP Warning:  require(classes/regodesign/store/Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[27-Jul-2015 16:08:36 America/New_York] PHP Fatal error:  require(): Failed opening required 'classes/regodesign/store/Database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[28-Jul-2015 09:11:06 America/New_York] PHP Fatal error:  Call to undefined function getOrders() in /home/a3smedia/public_html/rego-frontend/manage/viewOrders.php on line 41
+[28-Jul-2015 09:43:51 America/New_York] PHP Fatal error:  Call to undefined function getOrders() in /home/a3smedia/public_html/rego-frontend/manage/viewOrders.php on line 41
+[28-Jul-2015 11:12:58 America/New_York] PHP Warning:  require(classes/Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[28-Jul-2015 11:12:58 America/New_York] PHP Warning:  require(classes/Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[28-Jul-2015 11:12:58 America/New_York] PHP Fatal error:  require(): Failed opening required 'classes/Database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[28-Jul-2015 11:13:58 America/New_York] PHP Warning:  require(classes/Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[28-Jul-2015 11:13:58 America/New_York] PHP Warning:  require(classes/Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[28-Jul-2015 11:13:58 America/New_York] PHP Fatal error:  require(): Failed opening required 'classes/Database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[28-Jul-2015 11:45:09 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'sku' cannot be null' in /home/a3smedia/public_html/rego-frontend/classes/regodesign/store/Products.php:197
+Stack trace:
+#0 /home/a3smedia/public_html/rego-frontend/classes/regodesign/store/Products.php(197): PDOStatement->execute()
+#1 /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php(141): regodesign\store\Products->createProduct()
+#2 /home/a3smedia/public_html/rego-frontend/manage/viewProducts.php(38): getProducts('create', '0', Array)
+#3 {main}
+  thrown in /home/a3smedia/public_html/rego-frontend/classes/regodesign/store/Products.php on line 197
+[28-Jul-2015 11:46:17 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'sku' cannot be null' in /home/a3smedia/public_html/rego-frontend/classes/regodesign/store/Products.php:198
+Stack trace:
+#0 /home/a3smedia/public_html/rego-frontend/classes/regodesign/store/Products.php(198): PDOStatement->execute()
+#1 /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php(141): regodesign\store\Products->createProduct()
+#2 /home/a3smedia/public_html/rego-frontend/manage/viewProducts.php(38): getProducts('create', '0', Array)
+#3 {main}
+  thrown in /home/a3smedia/public_html/rego-frontend/classes/regodesign/store/Products.php on line 198
+[28-Jul-2015 12:09:29 America/New_York] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting \\ (T_NS_SEPARATOR) or ';' or '{' in /home/a3smedia/public_html/rego-frontend/classes/regodesign/store/Products.php on line 2
+[28-Jul-2015 12:53:20 America/New_York] PHP Fatal error:  Call to undefined function getProducts() in /home/a3smedia/public_html/rego-frontend/manage/viewProducts.php on line 41
+[28-Jul-2015 12:53:44 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2031 ' in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php:128
+Stack trace:
+#0 /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php(128): PDO->query('DELETE FROM pro...')
+#1 /home/a3smedia/public_html/rego-frontend/classes/regodesign/store/Products.php(270): a3smedia\utilities\Database::deleteOne('[Test-Pr', 'sku', 'products')
+#2 /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php(193): regodesign\store\Products->deleteProductBySKU('[Test-Pr')
+#3 /home/a3smedia/public_html/rego-frontend/manage/viewProducts.php(26): getProduct('delete', '[Test-Pr')
+#4 {main}
+  thrown in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 128
+[28-Jul-2015 12:57:38 America/New_York] PHP Fatal error:  Call to undefined method PDO::execute() in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Database.php on line 131
+[28-Jul-2015 14:41:38 America/New_York] PHP Fatal error:  Call to undefined function regodesign\users\createRetailer() in /home/a3smedia/public_html/rego-frontend/classes/regodesign/users/Retailers.php on line 123
+[28-Jul-2015 15:58:54 America/New_York] PHP Fatal error:  Call to undefined function regodesign\users\createConsumer() in /home/a3smedia/public_html/rego-frontend/classes/regodesign/users/Consumers.php on line 215
+[28-Jul-2015 15:59:19 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'consumerRetailerID' cannot be null' in /home/a3smedia/public_html/rego-frontend/classes/regodesign/users/Consumers.php:146
+Stack trace:
+#0 /home/a3smedia/public_html/rego-frontend/classes/regodesign/users/Consumers.php(146): PDOStatement->execute()
+#1 /home/a3smedia/public_html/rego-frontend/classes/regodesign/users/Consumers.php(215): regodesign\users\Consumers->createConsumer()
+#2 /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php(121): regodesign\users\Consumers->save()
+#3 /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php(38): getConsumer('create', '0', Array)
+#4 {main}
+  thrown in /home/a3smedia/public_html/rego-frontend/classes/regodesign/users/Consumers.php on line 146
+[28-Jul-2015 16:15:20 America/New_York] PHP Warning:  require(classes/Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[28-Jul-2015 16:15:20 America/New_York] PHP Warning:  require(classes/Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[28-Jul-2015 16:15:20 America/New_York] PHP Fatal error:  require(): Failed opening required 'classes/Database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[28-Jul-2015 16:18:32 America/New_York] PHP Fatal error:  Call to a member function getID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 147
+[28-Jul-2015 16:19:39 America/New_York] PHP Fatal error:  Call to a member function getID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 147
+[29-Jul-2015 14:54:16 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/a3smedia/public_html/rego-frontend/manage/includes/settings.php on line 25
+[29-Jul-2015 10:54:31 America/New_York] PHP Warning:  require(classes/Document.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[29-Jul-2015 10:54:31 America/New_York] PHP Warning:  require(classes/Document.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[29-Jul-2015 10:54:31 America/New_York] PHP Fatal error:  require(): Failed opening required 'classes/Document.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[29-Jul-2015 11:19:05 America/New_York] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Images.php on line 154
+[29-Jul-2015 11:19:18 America/New_York] PHP Warning:  imagejpeg(/home/a3smedia/public_html/rego-frontend/images/logos/androidify.png): failed to open stream: Is a directory in /home/a3smedia/public_html/rego-frontend/classes/a3smedia/utilities/Images.php on line 154
+[29-Jul-2015 15:45:44 UTC] PHP Parse error:  syntax error, unexpected 'LOGO_PATH' (T_STRING), expecting ',' or ';' in /home/a3smedia/public_html/rego-frontend/manage/viewRetailers.php on line 148
+[29-Jul-2015 11:50:33 America/New_York] PHP Warning:  require(classes/Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[29-Jul-2015 11:50:33 America/New_York] PHP Warning:  require(classes/Database.php): failed to open stream: No such file or directory in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[29-Jul-2015 11:50:33 America/New_York] PHP Fatal error:  require(): Failed opening required 'classes/Database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a3smedia/public_html/rego-frontend/autoloader.php on line 15
+[29-Jul-2015 15:02:58 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/a3smedia/public_html/rego-frontend/classes/regodesign/users/Consumers.php on line 43
+[29-Jul-2015 15:03:21 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/a3smedia/public_html/rego-frontend/classes/regodesign/users/Consumers.php on line 43
+[29-Jul-2015 15:19:19 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/a3smedia/public_html/rego-frontend/manage/editConsumers.php on line 124
+[29-Jul-2015 20:28:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php on line 108
+[29-Jul-2015 17:04:58 America/New_York] PHP Fatal error:  Call to a member function getID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 147
+[29-Jul-2015 17:05:39 America/New_York] PHP Fatal error:  Call to a member function getID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 147
+[29-Jul-2015 17:19:31 America/New_York] PHP Fatal error:  Call to undefined method regodesign\store\Orders::getName() in /home/a3smedia/public_html/rego-frontend/manage/viewOrders.php on line 145
+[29-Jul-2015 17:19:50 America/New_York] PHP Fatal error:  Call to undefined method regodesign\store\Orders::getName() in /home/a3smedia/public_html/rego-frontend/manage/viewOrders.php on line 145
+[30-Jul-2015 07:39:27 America/New_York] PHP Fatal error:  Call to undefined method regodesign\users\Retailers::getImage() in /home/a3smedia/public_html/rego-frontend/manage/editRetailers.php on line 100
+[30-Jul-2015 07:39:42 America/New_York] PHP Fatal error:  Call to undefined method regodesign\users\Retailers::getImage() in /home/a3smedia/public_html/rego-frontend/manage/editRetailers.php on line 100
+[30-Jul-2015 07:40:07 America/New_York] PHP Fatal error:  Call to undefined method regodesign\users\Retailers::getImage() in /home/a3smedia/public_html/rego-frontend/manage/editRetailers.php on line 100
+[30-Jul-2015 14:15:00 America/New_York] PHP Fatal error:  Call to a member function getName() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewOrders.php on line 148
+[30-Jul-2015 14:16:21 America/New_York] PHP Fatal error:  Call to a member function getName() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewOrders.php on line 149
+[30-Jul-2015 14:23:09 America/New_York] PHP Fatal error:  Call to a member function getName() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 101
+[30-Jul-2015 14:23:33 America/New_York] PHP Fatal error:  Call to undefined method regodesign\store\Orders::getName() in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 101
+[30-Jul-2015 14:23:35 America/New_York] PHP Fatal error:  Call to undefined method regodesign\store\Orders::getName() in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 101
+[30-Jul-2015 14:25:18 America/New_York] PHP Fatal error:  Call to undefined method regodesign\users\Consumers::getName() in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 102
+[30-Jul-2015 14:25:44 America/New_York] PHP Fatal error:  Call to undefined method regodesign\users\Consumers::getName() in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 102
+[30-Jul-2015 18:34:14 UTC] PHP Fatal error:  Cannot redeclare getExample() (previously declared in /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php:15) in /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php on line 509
+[30-Jul-2015 18:34:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 150
+[31-Jul-2015 17:55:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php on line 241
+[31-Jul-2015 13:55:56 America/New_York] PHP Fatal error:  Call to a member function setID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php on line 244
+[31-Jul-2015 17:58:24 UTC] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH) in /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php on line 218
+[31-Jul-2015 14:01:50 America/New_York] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 104
+[31-Jul-2015 14:02:49 America/New_York] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 104
+[31-Jul-2015 14:04:19 America/New_York] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 104
+[31-Jul-2015 14:04:33 America/New_York] PHP Fatal error:  Call to a member function getCustomerID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 89
+[31-Jul-2015 14:07:30 America/New_York] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 107
+[31-Jul-2015 14:08:16 America/New_York] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 107
+[31-Jul-2015 14:08:46 America/New_York] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 109
+[31-Jul-2015 14:08:57 America/New_York] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 109
+[31-Jul-2015 14:11:34 America/New_York] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/a3smedia/public_html/rego-frontend/classes/regodesign/store/Orders.php on line 127
+[03-Aug-2015 16:06:44 America/New_York] PHP Fatal error:  Call to a member function getID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 147
+[03-Aug-2015 16:07:48 America/New_York] PHP Fatal error:  Call to a member function getID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 147
+[03-Aug-2015 16:07:50 America/New_York] PHP Fatal error:  Call to a member function getID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 147
+[03-Aug-2015 16:07:53 America/New_York] PHP Fatal error:  Call to a member function getID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 147
+[03-Aug-2015 16:09:28 America/New_York] PHP Fatal error:  Call to a member function getID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 148
+[03-Aug-2015 16:14:49 America/New_York] PHP Fatal error:  Call to a member function getID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 147
+[03-Aug-2015 16:15:00 America/New_York] PHP Fatal error:  Call to a member function getID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 147
+[03-Aug-2015 16:16:13 America/New_York] PHP Fatal error:  Call to a member function getID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 147
+[03-Aug-2015 16:19:41 America/New_York] PHP Fatal error:  Call to a member function getID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 147
+[03-Aug-2015 16:30:33 America/New_York] PHP Fatal error:  Call to undefined function getProducts() in /home/a3smedia/public_html/rego-frontend/manage/editProducts.php on line 88
+[03-Aug-2015 16:32:17 America/New_York] PHP Fatal error:  Call to undefined function getProducts() in /home/a3smedia/public_html/rego-frontend/manage/editProducts.php on line 88
+[13-Aug-2015 15:30:22 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/a3smedia/public_html/rego-frontend/manage/index.php on line 27
+[19-Aug-2015 10:51:38 America/New_York] PHP Fatal error:  Call to a member function getLogo() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/editRetailers.php on line 103
+[19-Aug-2015 10:51:45 America/New_York] PHP Fatal error:  Call to a member function getLogo() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/editRetailers.php on line 103
+[02-Sep-2015 12:32:28 America/New_York] PHP Fatal error:  Call to undefined method regodesign\users\Consumers::getEmail() in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 146
+[02-Sep-2015 12:52:21 America/New_York] PHP Fatal error:  Call to undefined method regodesign\users\Consumers::save() in /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php on line 118
+[02-Sep-2015 14:08:12 America/New_York] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/editAdmins.php on line 101
+[02-Sep-2015 14:08:27 America/New_York] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/editAdmins.php on line 102
+[02-Sep-2015 18:09:55 UTC] PHP Parse error:  syntax error, unexpected '$required' (T_VARIABLE) in /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php on line 48
+[02-Sep-2015 14:15:02 America/New_York] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php on line 106
+[02-Sep-2015 14:15:40 America/New_York] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/includes/functions.php on line 107
+[02-Sep-2015 14:22:13 America/New_York] PHP Fatal error:  Call to undefined function regodesign\users\updateAdmin() in /home/a3smedia/public_html/rego-frontend/classes/regodesign/users/Admins.php on line 123
+[02-Sep-2015 14:23:33 America/New_York] PHP Fatal error:  Call to undefined function regodesign\users\updateAdmin() in /home/a3smedia/public_html/rego-frontend/classes/regodesign/users/Admins.php on line 123
+[14-Sep-2015 11:50:17 America/New_York] PHP Fatal error:  Call to undefined method regodesign\users\Consumers::getEmail() in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 107
+[14-Sep-2015 11:50:27 America/New_York] PHP Fatal error:  Call to undefined method regodesign\users\Consumers::getEmail() in /home/a3smedia/public_html/rego-frontend/manage/editOrders.php on line 107
+[18-Nov-2015 15:06:05 America/New_York] PHP Fatal error:  Call to a member function getID() on a non-object in /home/a3smedia/public_html/rego-frontend/manage/viewConsumers.php on line 147

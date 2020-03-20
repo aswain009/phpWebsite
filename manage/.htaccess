@@ -1,0 +1,9 @@
+RewriteEngine OFF
+
+DirectoryIndex index.php
+
+<IfModule mod_security.c>
+
+    SecFilterEngine off
+
+</IfModule>
